@@ -1,0 +1,85 @@
+sales_agent,manager,regional_office,email,hire_date,target_quota_usd,employment_status,years_experience
+Rajesh Dupont,Dustin Brinkmann,Central,rdupont@salesforce.crm,2020-10-02,262417.0,Terminated,11.0
+Sebastian Malik,Dustin Brinkmann,Central,sebastian_malik@salesforce.crm,2018-06-01,1361005.0,N/A,17.0
+Markita Ibrahim,Dustin Brinkmann,Central,markita.ibrahim@salesforce.crm,2024-02-08,464252.0,Terminated,0
+Kary Cruz,Dustin Brinkmann,Central,kcruz@salesforce.crm,2021-05-29,1400483.0,active,18.0
+Daniell Bernard,Dustin Brinkmann,Central,daniell.bernard@salesforce.crm,2022-03-27,1091052.0,Active,18.0
+Chidi Dupont,Dustin Brinkmann,Central,chidi_dupont@salesforce.crm,2022-10-01,1309689.0,active,4.0
+Olumide Hillebrand,Dustin Brinkmann,Central,olumide.hillebrand@salesforce.crm,2023-11-12,794505.0,Active,2.0
+Fatima Müller,Dustin Brinkmann,Central,fmüller@salesforce.crm,2022-03-26,1059052.0,Active,9.0
+Sofia Hassan,Dustin Brinkmann,Central,sofia_hassan@salesforce.crm,2019-05-23,1315390.0,Active,19.0
+Jonathan Bicknell,Melvin Marxen,Central,jonathan.bicknell@salesforce.crm,2018-04-06,523438.0,Terminated,2.0
+Amara Anderson,Melvin Marxen,Central,amara_anderson@salesforce.crm,2022-03-19,1174805.0,Activ3,19.0
+Elizabeth Cantrell,Melvin Marxen,Central,elizabeth.cantrell@salesforce.crm,2024-05-16,-1,Terminated,-1
+Carl Wong,Melvin Marxen,Central,carl.wong@salesforce.crm,2020-10-24,457901.0,On Leave,11.0
+Lin Hammack,Melvin Marxen,Central, lin.hammack@salesforce.crm,,563931.0,On Leave,3.0
+Emeka Al-Rashid,Melvin Marxen,Central,emeka_al-rashid@salesforce.crm,2019-05-21,219636.0,active,20.0
+Chidi Okonkwo,Melvin Marxen,n/a,chidi.okonkwo@salesforce.crm,2022-01-26,1386373.0,Terminated,9.0
+Ahmed Cosme,Melvin Marxen,Central,acosme@salesforce.crm,2018-04-05,1107119.0,Terminated,2.0
+Valentina Lin,Melvin Marxen,Central,valentina.lin@salesforce.crm,2023-01-13,544942.0,Active,19.0
+Rosie Hendrixson,Cara Losch,East,rosie_hendrixson@salesforce.crm,2020-09-03,379379.0,active,-1
+Niesha Freudenburg,Cara Losch,East,niesha_freudenburg@salesforce.crm,2018-08-17,1097802.0,active,11.0
+Niesha Adeyemi,Cara Losch,East,niesha.adeyemi@salesforce.crm,2020-03-04,1114039.0,Terminated,5.0
+Cecily Marcano,Cara Losch,East,cecily.marcano@salesforce.crm,2019-08-16,1197667.0,Active,11.0
+Viktor Ibrahim,Cara Losch,East,vibrahim@salesforce.crm,2018-06-22,630579.0,Active,5.0
+Rajesh Hillebrand,Cara Losch,East,rajesh.hillebrand@salesforce.crm  ,2018-05-02,994658.0,Active,12.0
+Saoirse Ibrahim,Cara Losch,East,sibrahim@salesforce.crm,2018-09-25,1491904.0,Active,9.0
+Markita Kumar,Rocco Neubert,East,markita_kumar@salesforce.crm,2018-11-30,1302002.0,Active,19.0
+Lin O'Brien,Rocco Neubert,East,lin_o'brien@salesforce.crm,2020-08-18,682717.0,On Leave,12.0
+Natalya Thompson,Rocco Neubert,East,natalya.thompson@salesforce.crm,2020-08-15,280281.0,Active,9.0
+Maureen Snelling,Rocco Neubert,East,maureen.snelling@salesforce.crm,2021-05-11,1033629.0,Active,15.0
+Lucas Singh,Rocco Neubert,East,lucas.singh@salesforce.crm,2020-02-09  ,912658.0,active,1.0
+Kenji Patel,Rocco Neubert,East,kenji_patel@salesforce.crm,2022-05-21,1359529.0,Active,13.0
+Niesha Ascencio  ,Rocco Neubert,East,niesha_ascencio@salesforce.crm,2018-08-24,633019.0,active,19.0
+,Rocco Neubert,East,vhammack@salesforce.crm,2020-04-06,391056.0,active,13.0
+Kami Mclelland,Rocco Neubert,East,kami.mclelland@salesforce.crm,2022-11-05,339972.0,On Leave,4.0
+Kofi Thompson,Celia Rouche,West,kthompson@salesforce.crm,2019-11-07,725558.0,active,3.0
+Daniell Hendrixson,,West,daniell_hendrixson@salesforce.crm,2021-02-17,521905.0,active,2.0
+Rosie Dieter,Celia Rouche,West,ROSIE.DIETER@SALESFORCE.CRM,2021-06-16,602971.0,Active,6.0
+Amara Clapper,Celia Rouche,West,amara.clapper@salesforce.crm,2024-04-21,1016183.0,Active,3.0
+Chidi Kowalski,Celia Rouche,West,ckowalski@salesforce.crm,2019-02-22,478777.0,Active,3.0
+Tariq Levy,,West,tlevy@salesforce.crm,2020-08-10,488474.0,Active,20.0
+Daniell Hammack,Celia Rouche,West,daniell.hammack@salesforce.crm,2021-07-24,313401.0,active,13.0
+Niesha O'Brien,Celia Rouche,West,niesha_o'brien@salesforce.crm,2023-07-07,1093889.0,Active,10.0
+Thandi Berthelot,Summer Sewald,West,n/a,2022-01-12,829631.0,Active,10.0
+R3my Cosm3,Summer Sewald,West,rcosme@salesforce.crm,2019-09-26,1433773.0,Active,7.0
+Diego Levy,Summer Sewald,West,N/A,2023-06-25,510135.0,Active,
+Nkechi Neloms,Summer Sewald,West,nkechi_neloms@salesforce.crm,2018-11-26,386381.0,Active,13.0
+Mikael Snelling,Summer Sewald,West,msnelling@salesforce.crm,2019-02-01,431186.0,Active,7.0
+Rosie O'Brien,Summer Sewald,West,ro'brien@salesforce.crm,2019-11-12,215155.0,Terminated,17.0
+Remy Malik,Summer Sewald,West,rmalik@salesforce.crm,2021-10-12,892595.0,On Leave,
+Ahmed Martin,Summer Sewald,West,ahmed_martin@salesforce.crm,N/A,295953.0,Active,20.0
+Corliss Kumar,Patricia Nguyen,South,n/a,2022-04-26,1350805.0,Active,8.0
+Violet Freudenburg  ,Patricia Nguyen,South,vfreudenburg@salesforce.crm,2022-11-17,1231712.0,Terminated,11.0
+Tariq Osei,Patricia Nguyen,South,tosei@salesforce.crm,2024-04-20,971200.0,,19.0
+Lucas Eze,Patricia Nguyen,South,lucas.eze@salesforce.crm,2022-02-04,659075.0,Active,2.0
+Wilburn Hammack,Patricia Nguyen,South,wilburn.hammack@salesforce.crm,2023-05-14,310239.0,active,6.0
+Remy Ivanova,Patricia Nguyen,South,rivanova@salesforce.crm,2022-05-23,313504.0,Active,16.0
+Hayden Yamamoto,Patricia Nguyen,South,hyamamoto@salesforce.crm,2018-02-07,1193789.0,active,5.0
+Sebastian Bicknell,Patricia Nguyen,South,sebastian_bicknell@salesforce.crm,2021-05-24,1133480.0,active,1.0
+Corliss Müller,Patricia Nguyen,South,corliss_müller@salesforce.crm,2020-01-12,241411.0,Terminated,19.0
+n/a,Kevin Oduya,South,wilburn.mclelland@salesforce.crm,2020-01-08,461550.0,On Leave,8.0
+Olumide Nakamura,Kevin Oduya,South,olumide_nakamura@salesforce.crm,2023-12-28,277036.0,Active,12.0
+Zane Anderson,Kevin Oduya,South,zane.anderson@salesforce.crm,2022-04-13,603968.0,Terminated,5.0
+Kami Frase,Kevin Oduya,South,kfrase@salesforce.crm,2021-01-11,405409.0,Active,17.0
+Mikael Freudenburg,Kevin Oduya,South,mfreudenburg@salesforce.crm,2023-12-07,1315018.0,T3rmin@t3d,5.0
+Carl Vencill,Kevin Oduya,South,cvencill@salesforce.crm,2022-02-25,679753.0,On Leave,3.0
+Gladys Berthelot,Kevin Oduya,South,gladys_berthelot@salesforce.crm,2021-03-16,1316543.0,n/a,18.0
+Jonathan Wong,Hiroshi Tanaka,Asia-Pacific,jonathan.wong@salesforce.crm,2023-01-12,982832.0,Terminated,10.0
+Sebastian Papadopoulos,Hiroshi Tanaka,Asia-Pacific, spapadopoulos@salesforce.crm,2021-06-02,210809.0,Active,3.0
+Donn Eze,Hiroshi Tanaka,Asia-Pacific,donn.eze@salesforce.crm,2020-10-21,,Active,13.0
+Hayden Martin,Hiroshi Tanaka,Asia-Pacific,hayden.martin@salesforce.crm,2023-05-18,1015474.0,Active,0
+Arjun Kowalski,Hiroshi Tanaka,Asia-Pacific,arjun_kowalski@salesforce.crm,2018-02-02,718739.0,Active,6.0
+Donn Kinder,Hiroshi Tanaka,Asia-Pacific,donn.kinder@salesforce.crm,2019-05-09,685338.0,active,12.0
+Lucas Zhang  ,Hiroshi Tanaka,Asia-Pacific,lucas.zhang@salesforce.crm,2018-07-14,228650.0,Active,19.0
+Markita Adeyemi,Hiroshi Tanaka,Asia-Pacific,markita_adeyemi@salesforce.crm,2022-04-23,1346259.0,Active,5.0
+Diego Zhang,Hiroshi Tanaka,Asia-Pacific,diego_zhang@salesforce.crm,2022-02-08,,active,16.0
+Boris Thompson,Hiroshi Tanaka,Asia-Pacific,boris.thompson@s@l3sforc3.crm,2023-09-18,1301158.0,Active,2.0
+Marty Osei,Amara Osei,EMEA,mosei@salesforce.crm,2020-10-16,1056357.0,active,8.0
+Versie Lin,Amara Osei,EMEA,versie.lin@salesforce.crm,2019-03-12,1029346.0,Active,16.0
+Rosalina Patel,Amara Osei,EMEA,rosalina_patel@salesforce.crm,2023-07-03,1044112.0,Active,1.0
+Jonathan Huffines,Amara Osei,EMEA,jonathan_huffines@salesforce.crm,2020-10-14,1207525.0,Active,2.0
+Versie Mensah,Amara Osei,EMEA,versie.mensah@salesforce.crm,2018-07-02,1006866.0,On Leave,4.0
+Wilburn Laflamme,Amara Osei,EMEA,wilburn.laflamme@salesforce.crm,2018-12-14,417941.0,Active,3.0
+Cassey Clapper,Amara Osei,EMEA,cassey_clapper@salesforce.crm,2019-08-29,1007440.0,On Leave,5.0
+Valentina Hassan,Amara Osei,EMEA,valentina_hassan@salesforce.crm,2023-07-30,693235.0,Active,0
