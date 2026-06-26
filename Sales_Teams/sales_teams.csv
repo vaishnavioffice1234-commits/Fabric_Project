@@ -1,0 +1,72 @@
+sales_agent_id,manager_id,sales_agent,manager,regional_office,email,hire_date,target_quota_usd,employment_status,years_experience
+1,1,Cecily Marcano,Dustin Brinkmann,Central,cecily.marcano@crm.internal,,658517,Terminated,18
+2,1,Carl Snelling,Dustin Brinkmann,Central,carl.snelling@crm.internal,16-10-2019,1466105,On Leave,13
+3,1,Zara Martin,Dustin Brinkmann,Central,zara.martin@crm.internal,21-01-2022,782952,Active,9
+4,1,Marty Okafor,Dustin Brinkmann,Central,marty.okafor@crm.internal,02-12-2019,317310,Active,19
+5,1,Omar Lindqvist,Dustin Brinkmann,Central,omar.lindqvist@crm.internal,09-06-2022,1423757,Active,2
+6,1,Reed Laflamme,Dustin Brinkmann,Central,reed.laflamme@crm.internal,26-09-2022,440232,Active,10
+7,2,Emeka Dupont,Melvin Marxen,Central,emeka.dupont@crm.internal,02-01-2020,1312232,N/A,10
+8,2,Mikael Colclough,Melvin Marxen,Central,mikael.colclough@crm.internal,17-12-2018,1306612,Active,7
+9,2,Sana Cantrell,Melvin Marxen,Central,sana.cantrell@crm.internal,10-03-2022,348883,Active,3
+10,2,Valentina Hansen,Melvin Marxen,Central,valentina.hansen@crm.internal,18-01-2024,1103979,Active,
+11,2,Lajuana Wong,Melvin Marxen,Central,lajuana.wong@crm.internal,24-03-2019,1354115,Terminated,8
+12,2,Hayden Herrera,MELVIN MARXEN,Central,hayden.herrera@crm.internal,29-08-2018,1220623,Active,
+13,2,Chidi Muller,Melvin Marxen,Central,chidi.muller@crm.internal,22-08-2023,1046778,Active,3
+14,2,Lin Adeyemi,Melvin Marxen,Central,lin.adeyemi@crm.internal,04-12-2020,,Terminated,3
+15,3,Lucas Berthelot,Cara Losch,East,lucas.berthelot@crm.internal, 2020-09-27,827842,Active,18
+16,3,Hayden Neloms,Cara Losch,East,hayden.neloms@crm.internal,05-11-2021,,Active,9
+17,3,Versie Yamamoto,,East,versie.yamamoto@crm.internal,16-04-2024,1101328,Active,8
+18,3,Remy Kumar,Cara Losch,East,remy.kumar@crm.internal,26-09-2019,1063425,Active,4
+19,3,Kofi Gluck,Cara Losch,East,KOFI.GLUCK@CRM.INTERNAL,28-03-2020,785367, Terminated,9
+20,3,Zane Hillebrand,Cara Losch,East,zane.hillebrand@crm.internal,21-03-2019,293085,Terminated,7
+21,3,Sana Wong,Cara Losch,East,sana.wong@crm.internal,09-07-2021,602317,Active,18
+22,4,Yuki Petrov,Rocco Neubert,East,yuki.petrov@crm.internal,12-08-2021,1280981,Active,10
+23,4,Cecily Hillebrand,Rocco Neubert,East,cecily.hillebrand@crm.internal,29-09-2020,1038132,Active,4
+24,4,Darcel Cruz,Rocco Neubert,East,darcel.cruz@crm.internal,18-03-2023,1128143,Terminated,15
+25,4,Kofi Malik,Rocco Neubert,East,kofi.malik@crm.internal,27-11-2020,691768,Terminated,13
+26,4,Marty Kumar,Rocco Neubert,East,marty.kumar@crm.internal, 2022-07-28,1407310,Active,14
+27,4,Mei Gluck,Rocco Neubert,East,mei.gluck@crm.internal,23-06-2023,467654,On Leave,3
+28,4,Sebastian Cress,Rocco Neubert,East,sebastian.cress@crm.internal,25-07-2018,371769,Active,3
+29,5,James Ivanova,Celia Rouche,West,james.ivanova@crm.internal,25-03-2018,1470649,Active,10
+30,5,Priya Zhang,Celia Rouche,West,priya.zhang@crm.internal,18-03-2022,1459154,Terminated,14
+31,5,Omar Wong,Celia Rouche,West,omar.wong@crm.internal,21-02-2018,1294182,Terminated,19
+32,5,Gladys Lin,Celia Rouche,West,N/A,21-01-2023,741804,Active,7
+33,5,Valentina Ibrahim,Celia Rouche,West,valentina.ibrahim@crm.internal,11-09-2020,1419610,Active,11
+34,5,Priya Levy,Celia Rouche,West,priya.levy@crm.internal,02-08-2020,1436453,Active,10
+35,6,Versie Singh,Summer Sewald,West,versie.singh@crm.internal,03-06-2019,1403899,Active,16
+36,6,Valentina Berthelot,Summer Sewald,West,valentina.berthelot@crm.internal,08-08-2018,1496917,On Leave,19
+37,6,Luca Frase,Summer Sewald,West,luca.frase@crm.internal,11-02-2019,1445312,Active,15
+38,6,Zane Okonkwo,Summer Sewald,West,zane.okonkwo@crm.internal,21-03-2020,1393713,On Leave,9
+39,6,Gladys Okafor,Summer Sewald,WEST,gladys.okafor@crm.internal, 2018-06-13,765205,Active,9
+40,6,Zara Lindqvist,Summer Sewald,West,zara.lindqvist@crm.internal,09-01-2019,1039809,On Leave,4
+41,7,Anna Clapper,Patricia Nguyen,South,anna.clapper@crm.internal,01-02-2024,474754,On Leave,20
+42,7,Priya Ibrahim,Patricia Nguyen,South,priya.ibrahim@crm.internal,26-02-2018,812078,On Leave,18
+43,7,Mei Mensah,Patricia Nguyen,South,mei.mensah@crm.internal,14-07-2019,826116,On Leave,16
+44,7,Viktor Nakamura,Patricia Nguyen,South,viktor.nakamura@crm.internal,09-02-2023,1191903,On Leave,5
+45,7,Emeka Petrov,Patricia Nguyen,South,emeka.petrov@crm.internal,21-09-2021,523718,Active,3
+46,7,Viktor Nakamura,Patricia Nguyen,South,viktor.nakamura@crm.internal,21-07-2021,677073,Active,4
+47,7,Cecily Hillebrand,Patricia Nguyen,South,cecily.hillebrand@crm.internal,21-08-2021,365608,Active,8
+48,7,Zane Clapper,Patricia Nguyen,South,zane.clapper@crm.internal,08-02-2018,1089840,Active,16
+49,7,Lucas Zhang,Patricia Nguyen,South,lucas.zhang@crm.internal,26-04-2021,302853,Active,12
+50,7,Zane Laflamme,Patricia Nguyen,South,zane.laflamme@crm.internal,15-07-2019,818891,Active,12
+51,8,Zane Muller,Kevin Oduya,South,zane.muller@crm.internal,23-04-2021,1033432,Active,9
+52,8,Anya Marcano,Kevin Oduya,South, anya.marcano@crm.internal,09-12-2020,664240,On Leave,14
+53,8,Moses Patel,Kevin Oduya,South,moses.patel@crm.internal,11-07-2023,1431741,On Leave,20
+54,8,Moses Dieter,Kevin Oduya,South,moses.dieter@crm.internal,26-02-2022,326982,Active,3
+55,8,Mei Lampkin,Kevin Oduya,South,mei.lampkin@crm.internal,27-07-2018,688633,,5
+56,8,Rosie Clapper,Kevin Oduya,South,N/A,16-04-2018,1303281,On Leave,4
+57,8,Luca Hillebrand,Kevin Oduya,South,luca.hillebrand@crm.internal,06-11-2023,1130217,Terminated,20
+58,9,Fatima Okafor,Hiroshi Tanaka,Asia-Pacific,fatima.okafor@crm.internal,14-12-2023,650936,On Leave,14
+59,9,Olumide Clapper,Hiroshi Tanaka,Asia-Pacific,olumide.clapper@crm.internal,10-11-2020,472871,Terminated,14
+60,9,Cassey Yamamoto,Hiroshi Tanaka,Asia-Pacific,cassey.yamamoto@crm.internal,30-07-2018,1366573,Terminated,18
+61,9,Luca Laflamme,Hiroshi Tanaka,Asia-Pacific,luca.laflamme@crm.internal,30-03-2024,212804,On Leave,1
+62,9,Fatima Kumar,Hiroshi Tanaka,Asia-Pacific,fatima.kumar@crm.internal,02-02-2023,,Active,16
+63,9,Hayden Dupont,Hiroshi Tanaka,Asia-Pacific,hayden.dupont@crm.internal,N/A,,Active,5
+64,9,Rosie Snelling,Hiroshi Tanaka,Asia-Pacific,rosie.snelling@crm.internal,31-07-2023,288714,Active,19
+65,9,Ahmed Johns,Hiroshi Tanaka,Asia-Pacific,ahmed.johns@crm.internal,18-07-2022,710271,Active,11
+66,10,Emeka Okonkwo,Amara Osei,EMEA,emeka.okonkwo@crm.internal,13-04-2019,736804,Active,16
+67,10,Chidi Malik,Amara Osei,EMEA,chidi.malik@crm.internal,01-05-2024,776032,Active,2
+68,10,Omar Colclough,Amara Osei,EMEA,omar.colclough@crm.internal,08-09-2023,1468789,Active,11
+69,10,Omar Cress,Amara Osei,EMEA,omar.cress@crm.internal,10-06-2018,909607,Active,13
+70,10,Sana Okafor,Amara Osei,EMEA,sana.okafor@crm.internal,08-09-2019,377668,Active,17
+71,10,Emeka Osei,Amara Osei,EMEA,emeka.osei@crm.internal,16-03-2018,412107,Terminated,20
