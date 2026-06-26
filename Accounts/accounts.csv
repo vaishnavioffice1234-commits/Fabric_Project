@@ -1,0 +1,104 @@
+account_id,account_name,sector,year_established,revenue_usd_m,employees,office_location,subsidiary_of_account_id,annual_contract_value,account_tier,account_status,created_date
+1,Cancity,Technology,1988,8406.01,,United Kingdom,26,2037.89,Platinum,Active,24-06-2024
+2,Isdom,Finance,1986,5269.38,2868.53,Sweden,,990.21,,At-Risk,22-03-2020
+3,Codehow,Healthcare,2003,13785.6,45583.27,Canada,,1212.36,Silver,At-Risk,28-01-2022
+4,Hatfan,Medical,2000,6281.6,8988.23,France,,1240.62,Silver,Active,03-08-2018
+5,Ron-tech,Healthcare,2018,13169.44,710.31,Sweden,,496.27,Gold,Churned,10-09-2021
+6,Zumgoity,Energy,1990,10734.79,19928.47,India,,383.74,Bronze,At-Risk,29-08-2025
+7,Cheers,Finance,2007,15012.28,50429.97,UAE,,,Bronze,NULL,27-04-2016
+8,Bioholding,Technology,1995,3672.46,35888.94,Brazil,56,430.41,Bronze,Active,14-06-2017
+9,Betatech,Retail,1991,3673.6,36949.08,France,,953.1,Silver,Active,12-12-2020
+10,Betasoloin,Real Estate,2015,12721.45,3862.9,Japan,,3333.55,Enterprise,Churned,21-01-2024
+11,Konex,Logistics,2019,1707.55,17685.29,Australia,,291.37,Bronze,Active,12-12-2020
+12,Faseho,Education,2003,1877.3,44014.22,France,,86.16,Enterprise,Active,02-12-2020
+13,Kan-code,Manufacturing,1985,,22343.66,Germany,,1484.72,Silver,Churned,09-12-2015
+14,Hottechi,Technology,1995,5151.35,43451.21,Australia,,,Gold,Prospect,25-12-2020
+15,Singletechno,Media,2010,2256.33,15302.03,Kenya,,211.38, Enterprise,Active,14-12-2020
+16,Plussunin,Logistics,2000,653.41,12878.3,United States,,149.95,Platinum,Active,17-10-2017
+17,Groovestreet,Manufacturing,2000,10541.39,26453.68,Singapore,,1150.49,Enterprise,Inactive,22-10-2018
+18,Mymplace,Manufacturing,2001,9323.9,12107.13,Brazil,,2812.3,Platinum,Prospect,23-05-2017
+19,Sumace,Retail,2013,10351.93,8977.42,France,,2194.84,Enterprise,At-Risk,18-07-2020
+20,Zynco,Manufacturing,2020,11595.96,22156.43,Canada,,861.7,Platinum,Inactive,10-06-2015
+21,Trenpro,LOGISTICS,2004,13806.76,38074.41,Brazil,44,2797.86,Platinum,N/A,11-08-2015
+22,Dafjak,Healthcare,1983,1206.54,26645.06,Kenya,70,29.21,Bronze,,22-06-2019
+23,Forbesglobal,Logistics,2022,11669.37,24594.92,Japan,,1423.86,Enterprise,Inactive,12-06-2020
+24,Acehow,Manufacturing,1987,,34194.9,FRANCE,,233.19,Platinum,Prospect,04-11-2025
+25,Condax,Media,1995,6442.23,31279.68,N/A,,475.16,Enterprise,Active,31-05-2020
+26,Sonron,Real Estate,2010,9484.93,13930.36,UAE,,1368.04,Platinum,Active,25-02-2019
+27,Melbrew,Media,2013,2705.08,21816.15,France,38,679.14,PLATINUM,Inactive,25-02-2016
+28,Zencora,Real Estate,2011,3395.3,34442.51,Australia,,914.27,Platinum,Churned,08-05-2016
+29,Bluewave,Media,2020,8253.15,4851.93,Japan,,1939.93,Silver,Prospect,09-06-2019
+30,Cloudplex,Energy,1997,6014.44,52396.08,Brazil,,1805.37,Bronze,Prospect,18-01-2017
+31,Databridge,Telecommunications,1981,2966.88,49717.4,Brazil,,586.06,Gold,Active,10-02-2026
+32,Nexhub,Healthcare,2009,4684.45,31036.89,Netherlands,,516.35,Bronze,Active,21-09-2017
+33,Orbita,Telecommunications,1990,488.1,6984.63,Netherlands,,94.5,Platinum,Inactive,23-01-2018
+34,Acme Corporation,Manufacturing,2001,12117.32,19821.27,UAE,,1445.5,Platinum,Prospect,19-03-2024
+35,Beta Inc,Media,2004,760.09,30524.51,Singapore,,22.09,Silver,Active,11-12-2020
+36,Alpha Ltd,Media,2001,4805.34,47015.16,,,973.44,Bronze,Prospect,24-09-2018
+37,Omega Group,Technology,1998,10138.34,42327.41,United Kingdom,,1477.87,Gold,At-Risk,18-07-2018
+38,Tech Holdings,Education,2007,1284.56,31070.81,India,,305.82,Enterprise,Active,02-06-2021
+39,Data Solutions,Retail,2020,12572.24,45540.69,Sweden,,203.67,Gold,Active,17-03-2023
+40,Global Technologies,Manufacturing,2010,8694.67,28932.57,Australia,,2221.41,NULL,Active,17-11-2020
+41,Prime Ventures,Telecommunications,1994,8319.91,37192.5,Netherlands,,,Bronze,Active,19-09-2023
+42,Next Systems,Telecommunications,2014,6636.23,6614.17,N/A,,907.36,Gold,Active,27-09-2017
+43,Core Partners,Real Estate,2020,12638.1,38957.79,France,,1678.85,Bronze,Active,19-06-2017
+44,Swift Dynamics,Technology,1995,9684.05,7424.67,South Africa,,786.71,Enterprise,Active,04-01-2024
+45,Peak Networks,Medical,1984,5682.15,41236.6,India,,1090.41,Bronze,At-Risk,24-08-2024
+46,Apex Innovations,Retail,2005,7114.58,25268.38,Brazil,13,1361.59,Bronze,Active,26-06-2024
+47,Nova Consulting,Media,1999,13635.04,14348.44,France,,3631.31,Enterprise,Active,30-12-2020
+48,Stellar Corporation,Manufacturing,2001,464.97,4662.27,United States,,59.3,Gold,Active,12-02-2016
+49,Vertex Inc,Manufacturing,2018,8941.18,28982.52,Singapore,51,,Silver,Active,09-09-2017
+50,Pivot Ltd,Media,2014,137.43,4911.1,,,23.68,Platinum,Active,27-04-2025
+51,Arch Group,Education,1995,13869.54,47576.41,Canada,,789.78,Silver,Active,09-09-2016
+52,Speed Holdings,Telecommunications,2017,2773.61,44017.53,India,,226.01,Enterprise,Active,20-09-2016
+53,Cloud Solutions,Medical,2009,8341.57,36399.05,Brazil,,2715,Bronze,Active,24-07-2018
+54,Net Technologies,Manufacturing,2023,4753.16,6085.51,Germany,,1474.33,Silver,Prospect,25-11-2016
+55,Sky Ventures,Healthcare,1988,4909.32,35442.97,France,,334,Silver,Active,06-11-2015
+56,Link Systems,Logistics,1990,11132.11,46593.83,UAE,,2085.63,Silver,Inactive,18-11-2024
+57,Bright Partners,Manufacturing,2006,6178.75,16338.1,India,,1920.54,Gold,At-Risk,24-12-2019
+58,Fast Dynamics,Education,2005,11792.59,1733.2,Japan,,1209.03,Silver,,05-06-2015
+59,Smart Networks,Finance,2013,3409.95,16366.03,Brazil,,650.72,SILVER,Churned,02-12-2016
+60,Quick Corp,Education,2012,,30257.28, India,,1891.03,Gold,Active,03-06-2025
+61,Bold Inc,Real Estate,1984,,12580.51,United States,,3122.07,Silver,Active,16-10-2017
+62,Deep Ltd,Healthcare,2004,11514.9,31763,Kenya,,1762.84,Gold,Inactive,10-01-2025
+63,Sharp Group,Education,2020,671.5,24766.17,Canada,,,Bronze,Active,10-06-2018
+64,Lean Holdings,Education,2016,9512.65,,Canada,,861.29,Enterprise,Inactive,29-08-2016
+65,Iron Corp,Media,2023,7212.71,38306.14,Netherlands,,376.51,Silver,NULL,11-04-2023
+66,Gold Inc,Energy,1984,7070.5,25006.72,India,,836.01,Enterprise,Inactive,14-10-2017
+67,Silver Ltd,Manufacturing,1994,8583.38,17627.51,Germany,,1371.59,Silver,Churned,04-12-2015
+68,Bronze Group,Technology,2016,12818.95,2029.47,Germany,,2980.29,Bronze,Inactive,04-01-2022
+69,Copper Holdings,Education,2005,12222.35,30328.42,Canada,,2702.51,Silver,Prospect,05-03-2026
+70,Zinc Solutions,Real Estate,1981,13777.56,35485.39,Brazil,,,Bronze,Prospect,06-01-2016
+71,Steel Technologies,Logistics,1998,5617.24,38357.61,United Kingdom,,1544.63,Enterprise,Active,16-08-2025
+72,Wire Ventures,Finance,2000,8067.23,19637.96,France,,2022.16,Platinum,Prospect,23-08-2025
+73,Cable Systems,Telecommunications,2016,4019.31,49848.21,Canada,,835.49,Platinum,Inactive,30-07-2025
+74,Fiber Partners,Media,2013,13193.62,20434.26,France,,3034.73,Enterprise,Active,04-09-2021
+75,Signal Dynamics,Media,2000,12339.29,19398.12,Kenya,,2337.3,Bronze,Active,30-01-2021
+76,Wave Networks,Media,2017,12844.18,15052.26,Japan,,3638.7,Platinum,Active,02-01-2017
+77,Pulse Innovations,Retail,1982,8835.95,2346.68,Brazil,,,Gold,Active,29-01-2026
+78,Beam Consulting,Finance,1992,13933.45,48882.11,South Africa,,2426.14,Platinum,Prospect,16-09-2025
+79,Ray Corporation,N/A,1995,4981.04,,UAE,,743.98,Gold,Active,30-12-2017
+80,Arc Inc,Real Estate,2006,7828.26,14731.14,Singapore,,,Enterprise,Churned,09-09-2018
+81,Dot Ltd,Energy,2017,4271.47,8592.2,United States,,68.41,Silver,Active,08-05-2016
+82,Grid Group,Medical,1998,16031.18,41482.69,Sweden,,1748.36,Enterprise,Active,09-11-2017
+83,Node Holdings,Retail,1999,10525.08,14685.4,Germany,,218.52,Bronze,NULL,03-02-2016
+84,Edge Solutions,Technology,1993,4223.15,15919.64,India,,331.69,Enterprise,Active,05-12-2018
+85,Core Technologies,Healthcare,2002,8882.82,26415.27,Canada,,996.96,Bronze,Churned,19-09-2020
+86,Hub Ventures,Telecommunications,2003,2845.61,40901.07,United Kingdom,,584.51,Gold,Active,19-08-2017
+87,Port Systems,Real Estate,1993,10476.43,29872.81,Germany,,2934.5,Gold,Inactive,10-04-2018
+88,Gate Partners,Energy,2006,258.44,16507.49,UAE,,54.99,Gold,Inactive,26-04-2016
+89,Key Dynamics,Medical,1980,8352.68,599.75,United States,,1005.86, Enterprise, Churned,28-08-2024
+90,Lock Networks,Finance,1989,11566.31,27927.85,Brazil,,2636.38,Bronze,Churned,04-11-2018
+91,Safe Innovations,Healthcare,1986,1399.87,45196.14,United States,,189.13,,Churned,07-12-2023
+92,Vault Consulting,Manufacturing,2004,14936.01,45184.73,N/A,,461.77,Enterprise,Active,07-02-2025
+93,Trust Corporation,Education,1991,7626.2,15075.58,Canada,,794.73,Gold,Active,24-01-2025
+94,Firm Inc,ENERGY,1985,7136.28,25321.66,Sweden,,1213.3,Gold,Active,21-09-2021
+95,Base Ltd,Medical,2020,6473.78,435.97,Singapore,,1024.81,Enterprise,Prospect,07-12-2023
+96,Root Group,Manufacturing,2016,15777.38,24170.43,Singapore,,293.12,Silver,Prospect,05-03-2024
+97,Stem Holdings,Finance,2022,9943.64,38568.99,France,,221.26,Enterprise,Active,18-12-2022
+98,Leaf Solutions,Logistics,2023,2725.89,,Germany,,504.47,Platinum,Churned,29-10-2025
+99,Branch Technologies,Healthcare,1989,1587.18,22605.12,Japan,91,71.45,Silver,Churned,24-07-2024
+100,Macro Corp,Retail,1991,,39926.26,Kenya,,2850.03,Bronze,Active,19-11-2020
+101,Micro Inc,Real Estate,2018,9616.93,31517.5,Japan,,1900.46,Bronze,Churned,10-08-2023
+102,Nano Ltd,Real Estate,2021,5948.99,12169.84,United States,,430.73,Platinum,Prospect,08-11-2016
+103,Pico Group,Retail,2014,9179.11,30455.86,United Kingdom,,1529.34,Platinum,Active,20-07-2020
